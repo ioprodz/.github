@@ -7,4 +7,4 @@
 ### Projects:
 - [Polysee.dev](https://polysee.dev): an AI augmented software delivery platform (Product/Delivery/Platform/Feedback)
 - [SpecJest](https://www.npmjs.com/package/specjest): a JS/TS BDD testing toolchain for Jest
-- [Cloviz](https://github.com/iorpodz/clovis): a local Claude code usage visualization tool 
+- [Cloviz](https://github.com/iorpodz/cloviz): a local Claude code usage visualization tool 
